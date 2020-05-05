@@ -1,5 +1,5 @@
 <H1>PNB-711/712 - Scientific Computing</H1>
-
+<H2>Spring 2020</H2>
 <H2>Scientific Computing</H2>
 <H2>Course Outline</H2> 
 In this course you will gain introductory experience programming in Python.  We will cover topics including basic programming skills, data manipulation and analysis, plotting, and automating routine tasks.  You will learn these tasks with reference to everyday problems psychologists face.
