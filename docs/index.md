@@ -1,5 +1,11 @@
 <H1>PNB-711/712 - Scientific Computing</H1>
 <H2>Spring 2020</H2>
+<H2>Course Links</H2>
+<li><a href="https://drfeinberg.github.io/Scientific-Computing/lectures.html" target="_blank">Lectures</a></li>
+<li><a href="https://drfeinberg.github.io/Scientific-Computing/codinglabs.html" target="_blank">Coding Labs</a></li>
+<li><a href="https://drfeinberg.github.io/Scientific-Computing/assignments.html" target="_blank">Assignments</a></li>
+<li><a href="https://drfeinberg.github.io/Scientific-Computing/ToolsAndResources.html" target="_blank">Tools and Resources</a></li>
+
 <H2>Course Outline</H2> 
 In this course you will gain introductory experience programming in Python.  We will cover topics including basic programming skills, data manipulation and analysis, plotting, and automating routine tasks.  You will learn these tasks with reference to everyday problems psychologists face.
 
@@ -54,8 +60,3 @@ Why are we not learning PsychoPy?  Because there is very little you need Python-
 
 <H2>R</H2>
 R is great and I highly encourage you to learn it in addition to Python.  It’s currently being offered in several other courses across campus.
-
-<li><a href="https://drfeinberg.github.io/Scientific-Computing/lectures.html" target="_blank">Lectures</a></li>
-<li><a href="https://drfeinberg.github.io/Scientific-Computing/codinglabs.html" target="_blank">Coding Labs</a></li>
-<li><a href="https://drfeinberg.github.io/Scientific-Computing/assignments.html" target="_blank">Assignments</a></li>
-<li><a href="https://drfeinberg.github.io/Scientific-Computing/ToolsAndResources.html" target="_blank">Tools and Resources</a></li>
