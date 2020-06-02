@@ -1,7 +1,7 @@
-<H1>PNB-711/712 - Scientific Computing</H1>
+<H1>Psychology, Neuroscience, & Behaviour-711/712 - Scientific Computing</H1>
 <H2>Spring 2020</H2>
 <H2>Course Links</H2>
-<li> a href="https://drfeinberg.github.io/Scientific-Computing/" target="_black">Scientific Computing</a></li>
+<li><a href="https://drfeinberg.github.io/Scientific-Computing/" target="_black">Scientific Computing</a></li>
 <li><a href="https://drfeinberg.github.io/Scientific-Computing/lectures.html" target="_blank">Lectures</a></li>
 <li><a href="https://drfeinberg.github.io/Scientific-Computing/codinglabs.html" target="_blank">Coding Labs</a></li>
 <li><a href="https://drfeinberg.github.io/Scientific-Computing/assignments.html" target="_blank">Assignments</a></li>
