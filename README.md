@@ -18,33 +18,33 @@ and https://jakevdp.github.io/PythonDataScienceHandbook/
 There are no tests in this course.  Each student will program a set of Python scripts in a coding lab each week, and weekly take-home assignments. These scripts will be directly relevant to research in Psychology, Neuroscience, & Behaviour. Students will be assessed on the functionality, coding style, and method of these scripts.
 
 <H2>Schedule of topics (subject to change):</H2>
-    1. Introduction to Scientific Computing
-        1. Introduction
-        2. Tools
-        3. Google Colab and Jupyter Notebooks
-        4. Variables
-        5. Operators
-        6. Conditionals
-    2. Data Types, Loops, Conditionals, and Functions
-        1. Data Types
-        2. Loops
-        3. Dictionaries
-        4. Functional Programming
-    3. Debugging and Classes
-        1. Object Oriented Programing
-        2. Classes
-        3. Objects
-        4. Namespaces
-    4. Analyzing and Plotting Data
-        1. NumPy
-        2. Exploring data in Pandas
-        3. Data analysis with SciPy & Statsmodels
-    5. Deep Dives
-        1. Automated Voice Analysis
-        2. Automated Face Analysis
-    6. Machine Learning
-        1. Unsupervised learning
-        2. Supervised learning
+1. Introduction to Scientific Computing
+    1. Introduction
+    2. Tools
+    3. Google Colab and Jupyter Notebooks
+    4. Variables
+    5. Operators
+    6. Conditionals
+2. Data Types, Loops, Conditionals, and Functions
+    1. Data Types
+    2. Loops
+    3. Dictionaries
+    4. Functional Programming
+3. Debugging and Classes
+    1. Object Oriented Programing
+    2. Classes
+    3. Objects
+    4. Namespaces
+4. Analyzing and Plotting Data
+    1. NumPy
+    2. Exploring data in Pandas
+    3. Data analysis with SciPy & Statsmodels
+5. Deep Dives
+    1. Automated Voice Analysis
+    2. Automated Face Analysis
+6. Machine Learning
+    1. Unsupervised learning
+    2. Supervised learning
 
 <H2>Labs</H2>
 Each coding lab will help develop skills learned in lectures.  This year our coding lab will revolve around coding a stroop task, simulating data, and analyzing it. Labs will be live, online and we can work in groups to help each other code.
